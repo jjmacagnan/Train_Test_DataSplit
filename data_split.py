@@ -2,10 +2,10 @@ import random
 import math
 
 # Configure paths to your dataset files here
-DATASET_FILE = 'metadata_mammoset_ddsm.csv'
-FILE_TRAIN = 'train_metadata_mammoset_ddsm.csv'
-FILE_VALID = 'validation.csv'
-FILE_TESTS = 'test_metadata_mammoset_ddsm.csv'
+DATASET_FILE = 'metadata_mammoset_ddsm_7.csv'
+FILE_TRAIN = 'train_metadata_mammoset_ddsm_7.csv'
+# FILE_VALID = 'validation.csv'
+FILE_TESTS = 'test_metadata_mammoset_ddsm_7.csv'
 
 # Set to true if you want to copy first line from main
 # file into each split (like CSV header)
